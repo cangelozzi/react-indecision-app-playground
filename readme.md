@@ -1,0 +1,3 @@
+# Indecision APP with ReactJS
+
+Playground for ReactJS and JSX!  Lots of ES6 fun...
